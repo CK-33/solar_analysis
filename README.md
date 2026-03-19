@@ -33,6 +33,10 @@ python -m src.main
 ```bash
 pip install -r requirements.txt
 ```
+ou (caso não funcione com o código acima)
+```
+py -m pip install -r requirements.txt
+```
 
 ## Estrutura
 
